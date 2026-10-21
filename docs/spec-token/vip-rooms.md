@@ -1,12 +1,12 @@
 # VIP Rooms & Token-Gated Access
 
-VIP Room Badges grant accounts entry into exclusive, spam-free communication channels across the Web3 Outpost ecosystem.
+VIP Room Badges grant accounts entry into 3 exclusive, spam-free communication channels thanks to the Web3 Outpost.
 
----
+--- 
 
 ## 🔒 Overview & Access Mechanics
 
-VIP Badges are earned by locking **SPEC tokens** (`0x6AcD...18BA`) into protocol lockup vaults. Time-bound token commitment guarantees high-quality, aligned discourse without sybil manipulation.
+Acquire VIP Badges by locking SPEC tokens (0x6AcD...18BA) in protocol vaults. By requiring a time-bound token lockup, the protocol makes sybil manipulation economically unviable, keeping VIP channels highly aligned.
 
 ### Access Tiers & Badges
 
@@ -32,16 +32,15 @@ VIP Badges are earned by locking **SPEC tokens** (`0x6AcD...18BA`) into protocol
 
 ## 🛠️ Technical Reference: SPEC Lock Tiers
 
-|                       Badge Image                       | Badge Name           | Badge ID | SPEC Lock Threshold | Minimum Lockup Period |      Transferability      |
+|                       Badge Image                       | Badge Name           | Badge ID | SPEC Lock Threshold |  
 | :-----------------------------------------------------: | :------------------- | :------: | :------------------ | :-------------------- | :-----------------------: |
-| ![Bronze VIP](../SP%20badges%20images/Bronze%20VIP.png) | **Bronze VIP Badge** |   `14`   | 1,000 SPEC          | 30 Days               | Non-Transferable (Locked) |
-| ![Silver VIP](../SP%20badges%20images/Silver%20VIP.png) | **Silver VIP Badge** |   `15`   | 10,000 SPEC         | 90 Days               | Non-Transferable (Locked) |
-|   ![Gold VIP](../SP%20badges%20images/Gold%20VIP.png)   | **Gold VIP Badge**   |   `16`   | 100,000 SPEC        | 180 Days              | Non-Transferable (Locked) |
-
+| ![Bronze VIP](../SP%20badges%20images/Bronze%20VIP.png) | **Bronze VIP Badge** |   `14`   | 1,000 SPEC          |
+| ![Silver VIP](../SP%20badges%20images/Silver%20VIP.png) | **Silver VIP Badge** |   `15`   | 10,000 SPEC         |  
+|   ![Gold VIP](../SP%20badges%20images/Gold%20VIP.png)   | **Gold VIP Badge**   |   `16`   | 100,000 SPEC        | 
 _Note: Tokens remain locked in smart contracts. Withdrawing tokens automatically burns the associated VIP Badge._
 
 ---
 
 ## 📖 Related Guides
 
-👉 **[How to Lock SPEC for VIP Badges](../guides/lock-spec-vip.md)**
+👉 **[How to Lock SPEC for VIP Badges](lock-spec-vip.md)**

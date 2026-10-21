@@ -4,7 +4,7 @@ Welcome to the official documentation for the **Society Protocol Web3 Outpost**�
 
 ## 🌟 What is the Web3 Outpost?
 
-The **Web3 Outpost** is an Ethereum-based application designed to preserve community alignment, maintain censorship-resistant accounts, and record verified histories of contributions during the multi-decade transition to Society Protocol (SP).
+The **Web3 Outpost** is an Ethereum-based application designed to preserve community alignment, maintain censorship-resistant accounts, and record verified histories of contributions during this transition to Society Protocol (SP).
 
 ### Core Purpose & Architecture
 
@@ -12,7 +12,7 @@ The **Web3 Outpost** is an Ethereum-based application designed to preserve commu
 
 2. **Subjective Contribution (Accounts & Badges):** Issues sybil-resistant **Accounts** and **Badges (ERC-1155)** that construct a subjective identity map of user credentials, zkTLS proofs, referral chains, and characteristics (determining **WHO** gets invited as Genesis Actors in Web4 instances).
 
-3. **Objective Contribution (SPEC Token):** The **SPEC token (ERC-20)** stores objective contribution value (determining **HOW MUCH Energy** each account receives at genesis).
+3. **Objective Contribution (SPEC Token):** The **SPEC token (ERC-20)** stores objective contribution value.
 
 4. **Genesis Launchpad for SP Instances:** When the Society Protocol software MVP releases (in ~3–5 years), thousands of independent **Web4 SP Instances** will spawn. The Web3 Outpost and SPEC token holdings provide the legitimate starting parameters for these instances.
 
@@ -33,25 +33,19 @@ This GitBook is structured into dedicated sections to serve both community membe
 - [Badges & Account Histories](concepts/badges.md) – ERC-1155 credentials, badges, and referral chains.
 - [Official Badges & Permissions](badges/overview.md) – The 4 ERC-1155 permissions (Mint, Burn, Transfer, Manage) and meritocratic governance.
 - [Governance & Core Badges](badges/governance-core.md) – DAO Governor Seats, Core Team, Advisors, and Moderators.
-- [VIP Rooms & SPEC Lockups](badges/vip-rooms.md) – Token-locked communication channels and tiers.
 
-### ⚡ SPEC Token & Genesis Energy
+### 🪙 SPEC Token
 
-- [SPEC Token & Economics](concepts/spec-token.md) – Subjective vs. objective contributions, tokenomics (10B supply), and use cases.
+- [SPEC Token & Economics](spec-token/overview.md) – Subjective vs. objective contributions, tokenomics (10B supply), and use cases.
+- [VIP Rooms & SPEC Lockups](spec-token/vip-rooms.md) – Token-locked communication channels and tiers.
+- [Lock SPEC for VIP Badges Guide](spec-token/lock-spec-vip.md) – Step-by-step SPEC locking and VIP tier guide.
+
+### ⚡ Genesis Energy
+
 - [Genesis Energy & Instance Airdrops](concepts/genesis-energy.md) – How SPEC holders qualify for initial Energy distributions in upstart SP instances over decades.
 
 ### 🛠️ Technical Reference & Guides
 
 - [Smart Contracts Reference](technical/contracts.md) – Verified proxy, implementation, and hook contracts on Ethereum Mainnet.
 - [Badge ID Registry](technical/badge-ids.md) – Complete token ID mapping (`11`–`28`) with badge artwork previews.
-- [Guides](guides/lock-spec-vip.md) – Step-by-step SPEC locking, badge creation, and zkTLS setup.
-
----
-
-## 🔒 Smart Contract Quick Reference
-
-| Network              | Main Proxy Address                           | License                |
-| :------------------- | :------------------------------------------- | :--------------------- |
-| **Ethereum Mainnet** | `0x2313C0cDdc233c92d16c2cfE17DF5fDCcE556763` | Source-Available / MIT |
-
-_For complete proxy, implementation, and factory contract details, visit the [Smart Contracts Reference](technical/contracts.md)._
+- [Guides](guides/create-badges.md) – Step-by-step guides for badge creation and protocol setup.
