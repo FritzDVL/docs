@@ -2,3 +2,11 @@ site_name: Society Protocol Docs
 theme:
   name: material
 docs_dir: 'docs'
+
+extra_css:
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.3.0/css/glightbox.min.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/glightbox/3.3.0/js/glightbox.min.js
+  - javascripts/lightbox.js

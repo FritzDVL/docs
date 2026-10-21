@@ -3,20 +3,44 @@
 This guide explains how to use the Web3 protocols can deploy custom ERC-1155 badge contracts using Society Protocol's 
 
 ---
+## 💡 Create a Personal Account
 
 You need to have an account in the Web3 Outpost
 
 Video Tutorial: 
 
-Once you mint your Identity you can go to the badge section and start creating
+---
 
-## 💡 Overview
+## 💡 Create Individual Badges
+Once you mint your Identity you can go to the badge section on the left side and start the process of badge creation.
 
-Deploying custom badges through the factory provides your project with instant compatibility across Society Protocol's ecosystem:
+Step 1
 
-* **No Smart Contract Coding:** Initialize permissioned ERC-1155 badges via single factory calls.
-* **Automatic Registry Indexing:** Deployed wrappers register immediately in `CommunityRegistry` (`0xEa00...EB76`).
-* **Custom Minting & Transfer Rules:** Define whether your badges are soulbound, burnable, or transferable.
+![](../assets/guides/create-badges-steps/1.png)
+
+Step 2
+
+![](../assets/guides/create-badges-steps/2.png)
+
+Step 3
+
+![](../assets/guides/create-badges-steps/3.2.png)
+
+Step 4
+
+![](../assets/guides/create-badges-steps/4.png)
+
+Step 5
+
+![](../assets/guides/create-badges-steps/5.png)
+
+
+
+## 💡 Create Community Badges
+
+We follow a similar process to the individual badge creation process.
+
+
 
 ---
 
