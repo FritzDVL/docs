@@ -1,6 +1,6 @@
 # SPEC Token: Objective Contribution & Economics
 
-The **SPEC Token** (`0x6AcD7735B3acF0DD677332a599FFfF71C18818BA`) is the objective contribution storage token of the Society Protocol movement. It works alongside the account system to provide a real-time, sybil-resistant community map on Ethereum.
+The **SPEC Token** is the objective contribution storage token of the Society Protocol movement. It works alongside the account system to provide a real-time, sybil-resistant community map on Ethereum.
 
 ---
 

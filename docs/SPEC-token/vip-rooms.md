@@ -40,7 +40,3 @@ Acquire VIP Badges by locking SPEC tokens (0x6AcD...18BA) in protocol vaults. By
 _Note: Tokens remain locked in smart contracts. Withdrawing tokens automatically burns the associated VIP Badge._
 
 ---
-
-## 📖 Related Guides
-
-👉 **[How to Lock SPEC for VIP Badges](lock-spec-vip.md)**

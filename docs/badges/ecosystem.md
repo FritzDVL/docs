@@ -1,4 +1,4 @@
-# Ecosystem & Partner Badges
+## 💡 Partner Badges
 
 Ecosystem & Partner Badges distinguish partner communities, ICO fundraiser participants, and third-party Web3 protocols using Society Protocol's identity layer.
 

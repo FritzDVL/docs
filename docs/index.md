@@ -29,7 +29,6 @@ This GitBook is structured into dedicated sections to serve both community membe
 
 ### 🎖️ Badges & Identity Layer
 
-- [Frequently Asked Questions (FAQ)](guides/faq.md) – Frequently asked questions regarding the Outpost and governance.
 - [Badges & Account Histories](concepts/badges.md) – ERC-1155 credentials, badges, and referral chains.
 - [Official Badges & Permissions](badges/overview.md) – The 4 ERC-1155 permissions (Mint, Burn, Transfer, Manage) and meritocratic governance.
 - [Governance & Core Badges](badges/governance-core.md) – DAO Governor Seats, Core Team, Advisors, and Moderators.
@@ -38,7 +37,6 @@ This GitBook is structured into dedicated sections to serve both community membe
 
 - [SPEC Token & Economics](spec-token/overview.md) – Subjective vs. objective contributions, tokenomics (10B supply), and use cases.
 - [VIP Rooms & SPEC Lockups](spec-token/vip-rooms.md) – Token-locked communication channels and tiers.
-- [Lock SPEC for VIP Badges Guide](spec-token/lock-spec-vip.md) – Step-by-step SPEC locking and VIP tier guide.
 
 ### ⚡ Genesis Energy
 

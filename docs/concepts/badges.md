@@ -1,12 +1,10 @@
-# Badges & Account Histories
+## 💡 What is a badge?
 
 Badges form the core identity primitive of the Web3 Outpost. Attached to sybil-resistant accounts, badges differentiate users over time by recording verifiable history, roles, characteristics, and contributions.
 
 ---
 
-## 💡 Accounts & Badges Overview
-
-### Accounts
+## 💡 Accounts
 
 All participants in the Society Protocol movement create an Ethereum-based account within the Web3 Outpost.
 
