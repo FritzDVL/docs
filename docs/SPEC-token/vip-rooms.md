@@ -29,10 +29,9 @@ Acquire VIP Badges by locking SPEC tokens (`0x6AcD...18BA`) in protocol vaults. 
 
 ## Technical Reference: SPEC Lock Tiers
 
-| Badge Name | Badge ID | SPEC Lock Threshold | Minimum Lockup Period |
-| :--- | :---: | :---: | :---: |
-| **Bronze VIP Badge** | `14` | 1,000 SPEC | 30 Days |
-| **Silver VIP Badge** | `15` | 10,000 SPEC | 90 Days |
-| **Gold VIP Badge** | `16` | 100,000 SPEC | 180 Days |
+| Badge Name | Badge ID | SPEC Lock Threshold |
+| :--- | :---: | :---: |
+| **Bronze VIP Badge** | `14` | 1,000 SPEC |
+| **Silver VIP Badge** | `15` | 10,000 SPEC |
+| **Gold VIP Badge** | `16` | 100,000 SPEC |
 
-*Note: Tokens remain locked in smart contracts. Withdrawing tokens automatically burns the associated VIP Badge.*
