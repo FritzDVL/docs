@@ -1,4 +1,4 @@
-# Genesis Energy & Instance Airdrops
+# Genesis Energy
 
 One of the most valuable aspects of participating in the Web3 Outpost is qualifying for Genesis Energy Distributions across newly spawned Society Protocol instances over decades.
 

@@ -1,4 +1,4 @@
-# The Linux Model: Codebase vs. Instances
+# Codebase vs. Instances
 
 Society Protocol operates under an organizational and architectural framework similar to the Linux Foundation.
 
