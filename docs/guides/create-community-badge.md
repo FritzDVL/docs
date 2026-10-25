@@ -1,7 +1,11 @@
-## 💡 Create community badge
+# Create a Community Badge
 
-This tutorial will guide you through the process of creating a community badge on the Web3 Outpost.
+This tutorial will guide you through the process of creating a custom badge for your community on the Web3 Outpost.
 
-You need to have an account in the Web3 Outpost
+## Prerequisites
+You need to have an account in the Web3 Outpost, and the administrative rights to your community dashboard.
 
-Video Tutorial: 
+**Video Tutorial:** [Insert Video Here]
+
+**Step-by-Step:**
+[Insert Screenshots Here]

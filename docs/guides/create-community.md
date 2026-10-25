@@ -1,7 +1,11 @@
-## 💡 Create a Community in the Web3 Outpost
+# Create a Community
 
-This guide explains how to use the Web3 Outpost to create a community
+This tutorial will guide you through the process of creating a community within the Web3 Outpost.
 
-You need to have an account in the Web3 Outpost
+## Prerequisites
+You need to have an account in the Web3 Outpost.
 
-Video Tutorial: 
+**Video Tutorial:** [Insert Video Here]
+
+**Step-by-Step:**
+[Insert Screenshots Here]
