@@ -1,49 +1,71 @@
-Welcome to the official documentation for the **Society Protocol Web3 Outpost**—the censorship-resistant Schelling point and launchpad bridging humanity from Web3 / Nation States to Web4 / Synchronized States.
+# Society Protocol Web3 Outpost
+
+Welcome to the official documentation for the **Society Protocol Web3 Outpost**, the censorship-resistant Schelling point and launchpad bridging humanity from Web3 and Nation States to Web4 and Synchronized States.
 
 ---
 
-## 🌟 What is the Web3 Outpost?
+## What is the Web3 Outpost?
 
-The **Web3 Outpost** is an Ethereum-based application designed to preserve community alignment, maintain censorship-resistant accounts, and record verified histories of contributions during this transition to Society Protocol (SP).
+The Web3 Outpost is an Ethereum-based application designed to preserve community alignment, maintain censorship-resistant accounts, and record verified histories of contributions during this transition to Society Protocol (SP).
 
-### Core Purpose & Architecture
+Building the full Society Protocol ecosystem is a really long journey. The minimal-viable-product (MVP) codebase is expected in ~3–5 years, while the overall transition of human society into Synchronized States will stretch over 20 to 75 years.
+
+During this transition, the Web3 Outpost provides crucial censorship-resistant infrastructure on Ethereum Mainnet to:
 
 1. **The Schelling Point:** Serves as a resilient, decentralized gathering ground for the Society Protocol movement, core team, advisors, partner communities, and open-source contributors.
-
-2. **Subjective Contribution (Accounts & Badges):** Issues sybil-resistant **Accounts** and **Badges (ERC-1155)** that construct a subjective identity map of user credentials, zkTLS proofs, referral chains, and characteristics (determining **WHO** gets invited as Genesis Actors in Web4 instances).
-
-3. **Objective Contribution (SPEC Token):** The **SPEC token (ERC-20)** stores objective contribution value.
-
-4. **Genesis Launchpad for SP Instances:** When the Society Protocol software MVP releases (in ~3–5 years), thousands of independent **Web4 SP Instances** will spawn. The Web3 Outpost and SPEC token holdings provide the legitimate starting parameters for these instances.
+2. **Build a Subjective Identity Map (Accounts & Badges):** Issues sybil-resistant Accounts and Badges (ERC-1155) that construct a single, verifiable history of user credentials, zkTLS proofs, referral chains, and characteristics. 
+3. **Measure Objective Contribution (SPEC Token):** The SPEC token (ERC-20) stores objective contribution value, quantifying participant skin-in-the-game and determining **how much Energy** accounts qualify for.
+4. **Supply Genesis Starting Parameters:** When independent Web4 Society Protocol instances spawn, they query the Web3 Outpost to establish legitimate initial parameters at launch.
 
 ---
 
-## 🗺️ Navigation Blueprint
+## How the Outpost Powers Web4 Instances
 
-This GitBook is structured into dedicated sections to serve both community members and developers:
+When a community, family, DAO, or nation-state decides to launch a new Society Protocol Instance, they face two fundamental questions:
 
-### 🚀 Overview & Vision
+1. *"Who gets to be the initial Genesis Actors in our instance?"* (Answered by Accounts & Badges)
+2. *"How much initial Energy does each Genesis Actor receive?"* (Answered by SPEC Token Holdings)
 
-- [Web3 Outpost: The Web4 Launchpad](concepts/outpost-launchpad.md) – How the Outpost provides starting parameters for Web4 instances.
-- [The Linux Model: Codebase vs. Instances](concepts/codebase-vs-instances.md) – Society Protocol's neutral open codebase vs. customizable community instances.
+Attempting to resolve these questions manually for thousands of participants creates severe coordination friction, sybil vulnerability, and political deadlock.
 
-### 🎖️ Badges & Identity Layer
+The Web3 Outpost resolves this friction:
 
-- [Badges & Account Histories](concepts/badges.md) – ERC-1155 credentials, badges, and referral chains.
-- [Official Badges & Permissions](badges/overview.md) – The 4 ERC-1155 permissions (Mint, Burn, Transfer, Manage) and meritocratic governance.
-- [Governance & Core Badges](badges/governance-core.md) – DAO Governor Seats, Core Team, Advisors, and Moderators.
+```text
++-------------------------------------------------------------------------+
+|                           WEB3 OUTPOST                                  |
+|                                                                         |
+|  [Subjective Map] Accounts + Badges (zkTLS, Builder, Country, Roles)    |
+|  [Objective Map]  SPEC Token Balances (Stored Contribution Value)       |
++-------------------------------------------------------------------------+
+                                    |
+                                    | Exports Genesis Parameters
+                                    v
++-------------------------------------------------------------------------+
+|                  UPSTART WEB4 SP INSTANCES (GENESIS)                    |
+|                                                                         |
+|  - Community A Instance   --> Invites Builder Badges + SPEC (Energy)    |
+|  - Community B Instance   --> Invites Argentine Badges + SPEC (Energy)  |
+|  - Network State Instance --> Invites All Outpost Accounts + SPEC       |
++-------------------------------------------------------------------------+
+```
 
-### 🪙 SPEC Token
+### Examples of Community Genesis Parameters
 
-- [SPEC Token & Economics](spec-token/overview.md) – Subjective vs. objective contributions, tokenomics (10B supply), and use cases.
-- [VIP Rooms & SPEC Lockups](spec-token/vip-rooms.md) – Token-locked communication channels and tiers.
+Communities launching SP instances can slice the Web3 Outpost data in endless ways:
 
-### ⚡ Genesis Energy
+- **Builder-Focused Instance:** Invites only accounts possessing the Builder Badge (`26`), allocating initial Energy proportional to each account's SPEC token holdings.
+- **Regional Network State:** Invites only accounts with a verified Country Badge (via zkTLS), requiring a minimum SPEC balance for sybil-resistance, and allocating equal starting Energy.
+- **Partner Community Instance:** Invites members holding custom community badges and grants bonus Energy to SPEC token holders.
 
-- [Genesis Energy & Instance Airdrops](concepts/genesis-energy.md) – How SPEC holders qualify for initial Energy distributions in upstart SP instances over decades.
+---
 
-### 🛠️ Technical Reference & Guides
+## Documentation Structure
 
-- [Smart Contracts Reference](technical/contracts.md) – Verified proxy, implementation, and hook contracts on Ethereum Mainnet.
-- [Badge ID Registry](technical/badge-ids.md) – Complete token ID mapping (`11`–`28`) with badge artwork previews.
-- [Guides](guides/create-badges.md) – Step-by-step guides for badge creation and protocol setup.
+This documentation is organized into six primary sections:
+
+- **[Concepts](concepts/codebase-vs-instances.md):** The architectural principles of Society Protocol, codebase vs. instances, and how Genesis Energy is distributed.
+- **[Governance](governance/overview.md):** The meritocratic DAO structure, Governor badges, and parallel feedback for SPEC holders.
+- **[Badges](badges/overview.md):** The identity primitive of the Outpost, including permissions, badge standards, and partner tiers.
+- **[SPEC Token](SPEC-token/overview.md):** Tokenomics, supply distribution, and the mechanics of locking tokens for VIP communication channels.
+- **[Guides](guides/create-account.md):** Step-by-step tutorials for creating accounts, minting badges, and interacting with the protocol.
+- **[Technical](technical/badge-ids.md):** Smart contract addresses, proxy architectures, and the Badge ID registry for developers and auditors.

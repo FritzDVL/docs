@@ -4,7 +4,7 @@ All official badges are minted as **ERC-1155** tokens under the `SocietyProtocol
 
 ---
 
-## 📋 Official Badge ID Registry Table
+## Official Badge ID Registry Table
 
 | Preview | Badge Name | Badge ID | Mint Rule / Privilege | Transferability |
 | :---: | :--- | :---: | :--- | :---: |
@@ -21,6 +21,4 @@ All official badges are minted as **ERC-1155** tokens under the `SocietyProtocol
 | ![Moderator](../SP%20badges%20images/moderator.png) | **Moderator Badge** | `28` | Outpost Forum / Channel Moderator | Soulbound |
 
 > [!NOTE]
-> **System Identity Badges (ID 11 and ID 12):** Unlike other role-based or community-locked badges that are minted to individual human participants, the **DAO Badge (ID: 11)** and **Security Council Badge (ID: 12)** are identity markers held exclusively by their respective contract/multisig accounts (`societyprotocol.eth` and the Security Council Safe) to represent the entities themselves.
-
----
+> **System Identity Badges (ID 11 and ID 12):** Unlike other role-based or community-locked badges that are minted to individual human participants, the DAO Badge (ID: 11) and Security Council Badge (ID: 12) are identity markers held exclusively by their respective contract/multisig accounts (`societyprotocol.eth` and the Security Council Safe) to represent the entities themselves.
