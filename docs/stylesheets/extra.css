@@ -66,10 +66,17 @@
   background-color: rgba(255, 255, 255, 0.05);
 }
 
-/* 5. Custom Logo Dark Mode Swap */
+/* 5. Custom Logo Styling & Dark Mode Swap */
+.md-header__button.md-logo img,
+.md-nav__title .md-logo img {
+  width: auto;
+  height: 1.5rem;
+  object-fit: contain;
+}
+
 [data-md-color-scheme="slate"] .md-header__button.md-logo img,
 [data-md-color-scheme="slate"] .md-nav__title .md-logo img {
-  content: url("../assets/Horizontal Logo White.svg");
+  content: url("../assets/Icon-only-Logo-White.png");
 }
 
 /* 6. Center Site Title in Header */
