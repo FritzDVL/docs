@@ -22,6 +22,7 @@ nav:
       - Create Badge: guides/create-badge.md
       - Create Community: guides/create-community.md
       - Create Community Badge: guides/create-community-badge.md
+      - Add Community Members: guides/mint-community-badge.md
   - Technical:
       - Badge IDs: technical/badge-ids.md
       - Smart Contracts: technical/contracts.md

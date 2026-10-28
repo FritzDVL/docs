@@ -14,9 +14,6 @@ function initLightbox() {
     const anchor = document.createElement("a");
     anchor.href = img.src;
     anchor.classList.add("glightbox");
-    if (img.alt) {
-      anchor.setAttribute("data-description", img.alt);
-    }
     img.parentNode.insertBefore(anchor, img);
     anchor.appendChild(img);
   });

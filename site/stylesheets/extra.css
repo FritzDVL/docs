@@ -94,3 +94,8 @@
 .md-content img:not(.no-lightbox):hover {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
 }
+
+/* 8. Hide GLightbox caption/description bar entirely */
+.gslide-description {
+  display: none !important;
+}
