@@ -16,7 +16,7 @@ You need to have an account in the Web3 Outpost to interact with the protocol.
 ## Step-by-Step
 
 ### Step 1
-Connect your wallet (create one if needed) and visit https://app.societyprotocol.io/ Click on "Connect Wallet" in the top-right corner to start the sign-up process.
+Connect your wallet (create one if needed) and visit [Society Protocol App](https://app.societyprotocol.io/) Click on "Connect Wallet" in the top-right corner to start the sign-up process.
 
 ### Step 2
 Once your wallet is connected go to the left sidebar and click on "Accounts". Then click on "Setup Account" and follow the procedure.
