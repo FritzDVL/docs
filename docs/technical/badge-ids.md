@@ -16,7 +16,7 @@ All official badges are minted as **ERC-1155** tokens under the `SocietyProtocol
 | ![Gold VIP](../SP%20badges%20images/Gold%20VIP.png) | **Gold VIP Badge** | `16` | Access to Gold VIP Channels | Locked via SPEC |
 | ![Advisor](../SP%20badges%20images/Advisor.png) | **Advisor Badge** | `24` | Strategic Advisor Recognition | Soulbound |
 | ![Core Team](../SP%20badges%20images/Core%20Team.png) | **Core Team Badge** | `25` | Awarded after 6 months of service | Soulbound |
-| ![Contributor](../SP%20badges%20images/Contributor.png) | **Contributor / Builder Badge** | `26` | Code / Research Contribution | Soulbound |
+| ![Contributor](../SP%20badges%20images/Contributor.png) | **Contributor Badge** | `26` | Community / Research / Ecosystem Contribution | Soulbound |
 | ![ICO Participant](../SP%20badges%20images/ICO%20participant.png) | **ICO Participant Badge** | `27` | Fundraiser Contribution | Soulbound |
 | ![Moderator](../SP%20badges%20images/moderator.png) | **Moderator Badge** | `28` | Outpost Forum / Channel Moderator | Soulbound |
 

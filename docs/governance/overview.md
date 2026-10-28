@@ -35,7 +35,7 @@ All official governance badges are soulbound ERC-1155 tokens on Ethereum Mainnet
 | **Governor Badge** | `13` | Meritocratic DAO voting seat. Awarded to core team leaders and key partner affiliates to execute proposals. |
 | **Advisor Badge** | `24` | Strategic advisors, industry experts, and accredited partner institutions providing long-term guidance. |
 | **Core Team Badge** | `25` | Awarded to core protocol researchers, developers, and operators following continuous full-time contribution. |
-| **Contributor / Builder Badge** | `26` | Merged code, research, or architecture contributions across the Society Protocol ecosystem. |
+| **Contributor Badge** | `26` | Active contributors across research, community organizing, content, or ecosystem development. |
 | **Moderator Badge** | `28` | Community operators managing Outpost forums and official communication channels. |
 
 ---

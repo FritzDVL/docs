@@ -9,6 +9,7 @@ One of the most valuable aspects of participating in the Web3 Outpost is qualify
 In Web4 Society Protocol instances, Energy is the foundational resource unit used to measure economic output, governance weight, and systemic participation within Synchronized States.
 
 When an SP instance launches:
+
 - It requires a legitimate initial distribution of Energy among its founding accounts.
 - Manually picking accounts and manually deciding Energy amounts creates severe political conflict and coordination bottlenecks.
 - **The Web3 Outpost solution:** Upstart instances query the Web3 Outpost to identify verified accounts (Subjective Map via Badges) and distribute initial Energy proportional to SPEC Token holdings (Objective Map).
